@@ -29,7 +29,6 @@ github_username:  hamedbenazha
 theme: minima
 plugins:
   - jekyll-feed
-
 collections:
   teaching:
     output: true
