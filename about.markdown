@@ -3,16 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+![profile picture](/assets/profile.jpeg)
+Hi, I'm Hamed Benazha, a PhD student in Ecole Centrale Marseille 📖
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Huge coffee addict ☕
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love elegant solution and tend to use mathematics to find them. I'm a fervent advocate of the Occam's Razor. You can find in this blog some insight about the experiments I'm currently working on. 🔎
