@@ -4,4 +4,4 @@ title: "Teaching"
 permalink: "/teaching/"
 ---
 
-[DANA]({{site.baseurl}}/teaching/DANA)
+[DANA]({{site.baseurl}}/teaching/dana)
