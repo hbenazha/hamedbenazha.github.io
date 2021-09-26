@@ -10,3 +10,7 @@ permalink: /teaching/dana/
 
 
 [TP2 Noté](https://colab.research.google.com/drive/1WxmBts2VKEr_uNQt6eyRYnK4455FWyEY?usp=sharing)
+
+[TP2 Corrigé](https://colab.research.google.com/drive/1BdpAONZLl9D93d8Rk-VchT57Jv4Ke3-6?usp=sharing)
+
+[TP3](https://colab.research.google.com/drive/1FmMDx4jBeXR6F6fhMZIR-4gVoq1VVo7Z?usp=sharing)
