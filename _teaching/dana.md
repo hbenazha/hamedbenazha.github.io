@@ -14,3 +14,6 @@ permalink: /teaching/dana/
 [TP2 Corrigé](https://colab.research.google.com/drive/1BdpAONZLl9D93d8Rk-VchT57Jv4Ke3-6?usp=sharing)
 
 [TP3](https://colab.research.google.com/drive/1FmMDx4jBeXR6F6fhMZIR-4gVoq1VVo7Z?usp=sharing)
+
+[Datasets](https://github.com/hamedbenazha/hamedbenazha.github.io/blob/master/assets/dataset/data.zip?raw=true)
+
