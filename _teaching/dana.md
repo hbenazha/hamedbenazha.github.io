@@ -3,7 +3,11 @@ layout: page
 title: DANA
 permalink: /teaching/dana/
 ---
-[Support de cours 1](https://github.com/hamedbenazha/hamedbenazha.github.io/blob/master/assets/teaching_material/Python-for-Data-Analysis.pptx?raw=true)
+[Support de cours 1 (Pandas)](https://github.com/hamedbenazha/hamedbenazha.github.io/blob/master/assets/teaching_material/Python-for-Data-Analysis.pptx?raw=true)
+
+[Support de cours 2 (PCA)](https://github.com/hamedbenazha/hamedbenazha.github.io/raw/master/assets/teaching_material/PCA_Class.pdf)
+
+
 
 
 [TP1 Corrigé](https://colab.research.google.com/drive/1LCDFx5HerZK-ryLQpEbW32YXs7FdD2Ij?usp=sharing)
