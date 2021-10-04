@@ -7,8 +7,7 @@ permalink: /teaching/dana/
 
 [Support de cours 2 (PCA)](https://github.com/hamedbenazha/hamedbenazha.github.io/raw/master/assets/teaching_material/PCA_Class.pdf)
 
-
-
+[Support de cours 3 (MDS)](https://github.com/hamedbenazha/hamedbenazha.github.io/raw/master/assets/teaching_material/MDS.pdf)
 
 [TP1 Corrigé](https://colab.research.google.com/drive/1LCDFx5HerZK-ryLQpEbW32YXs7FdD2Ij?usp=sharing)
 
