@@ -24,5 +24,8 @@ permalink: /teaching/dana/
 
 [Datasets](https://github.com/hamedbenazha/hamedbenazha.github.io/blob/master/assets/dataset/data.zip?raw=true)
 
+[Données COVID épidémie](https://www.data.gouv.fr/fr/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/)
+[Données COVID vaccination](https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/)
+
 
 [Retours anonymes](https://docs.google.com/forms/d/e/1FAIpQLSe_tNRyfxQCSakK8EpqsI8dQGBdA5eRqCIq1z-qvBpOGao8Ug/viewform?usp=pp_url)
