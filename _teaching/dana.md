@@ -28,5 +28,6 @@ permalink: /teaching/dana/
 
 [Données COVID vaccination](https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/)
 
+[Données COVID Europe](https://www.ecdc.europa.eu/en/covid-19/data)
 
 [Retours anonymes](https://docs.google.com/forms/d/e/1FAIpQLSe_tNRyfxQCSakK8EpqsI8dQGBdA5eRqCIq1z-qvBpOGao8Ug/viewform?usp=pp_url)
